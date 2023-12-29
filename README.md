@@ -1,2 +1,13 @@
-# zkworkshop
-Aleo 1st Zkworkshop (Lagos zkworkshop event)
+# aleo_zkworkshop.aleo
+
+## Build Guide
+
+To compile this Aleo program, run:
+```bash
+snarkvm build
+```
+
+To execute this Aleo program, run:
+```bash
+snarkvm run hello
+```
